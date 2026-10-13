@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+<meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" />
+    <meta name="mobile-web-app-capable" content="yes">
+      <link rel="icon" href="https://www.webhouseindia.com/public/front/images/logos/navigation-modified_(2).png" type="image/x-icon"/>
+       <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#2330a1"/>
+            <title>Contact us-Reach out to WebhouseIndia Team !</title>
+                  <meta name="description" content="Questions? Suggestions? Contact us and get support via phone, chat or on our email.  WebhouseIndia love to hear them.">
+            <link rel="canonical" href="https://www.webhouseindia.com/contact-us">
+      <meta name="language" content="en-us" />
+      <meta name="distribution" content="Global" />
+            <meta property="og:title" content="Contact us-Reach out to WebhouseIndia Team !">
+            <meta property="og:type" content="website"/>
+      <meta property="og:url" content="https://www.webhouseindia.com/contact-us"/>
+      <meta property="og:site_name" content="Webhouseindia"/>
+            <meta property="og:description" content="Questions? Suggestions? Contact us and get support via phone, chat or on our email.  WebhouseIndia love to hear them."/>
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:title" content="Contact us-Reach out to WebhouseIndia Team !"/>
+             <meta name="twitter:site" content="@WebhouseIndia"/>
+  <meta name="twitter:creator" content="@WebhouseIndia"/>
+            <meta property="twitter:description" content="Questions? Suggestions? Contact us and get support via phone, chat or on our email.  WebhouseIndia love to hear them."/>
+                  <meta property="twitter:image" content="https://www.webhouseindia.com/public/front/images/logos/No1-web-development-in-india.jpeg"/>
+      
+     <meta NAME="robots" CONTENT="index,follow">
+
+
+
+
+            <style>
+         .simple_clean {
+         margin-top: 0px !important; 
+         }   
+
+
+      </style>
+      
+      
+            <meta name="yandex-verification" content="bb282855fbb5e749" />
+      <!-- External CSS -->
+      <link rel="stylesheet" href="https://www.webhouseindia.com/public/front/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://www.webhouseindia.com/public/front/css/style.css?v=0.108">
+      <link rel="stylesheet" href="https://www.webhouseindia.com/public/front/css/font.css">
+      <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+          <link href="https://www.webhouseindia.com/manifest.json" rel="manifest" />
+ <script type="0d97a9ffe6fff01d016f6cdb-text/javascript">
+      if (navigator.serviceWorker.controller) {
+        console.log('SW found, no need to register')
+      }
+      else {
+            navigator.serviceWorker.register('https://www.webhouseindia.com/pwa.js', {
+               scope: './'
+            }).then(function(reg) {
+          console.log('SW registered for scope:'+ reg.scope);
+        });
+      }
+      var APPURL = "https://www.webhouseindia.com";   
+    </script>
+
+           <!-- Global site tag (gtag.js) - Google Analytics -->
+<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-164924793-1" type="0d97a9ffe6fff01d016f6cdb-text/javascript"></script>
+<script async type="0d97a9ffe6fff01d016f6cdb-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164924793-1');
+</script>
+<!-- Google Tag Manager -->
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4CRRHN');</script>
+<!-- End Google Tag Manager -->
+   </head>
+ <!--<body oncontextmenu="return false;"> -->
+<body>
+       <!--Google Tag Manager (noscript) -->
+
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CRRHN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  
+
+
+<!-- End Google Tag Manager (noscript) -->
+
+      <a class="burger_icon burger_4 d-md-flex d-lg-none navbar-toggler" data-toggle="collapse" data-target="#mega_menu">
+         <div class="stick stick_1"></div>
+         <div class="stick stick_2"></div>
+         <div class="stick stick_3"></div>
+      </a>
+      <header class="header_wrap">
+         <header class="header_wrap_3">
+                         <div class="header_top2 d-flex align-items-center">
+
+                              <div class="container">
+                
+                  <div class="row">
+                     <div class="col-md-12  align-items-lg-center align-items-strat text-center ">
+                      <p> Start Your Online Journey Today !</p>
+                     </div>
+                    
+                  </div>
+               </div>
+            </div>
+         </header>
+         <div class="container">
+                  <nav class="mega_nav navbar2 navbar navbar-expand-lg d-flex justify-content-between p-0">
+                     <a class="navbar-brand" href="https://www.webhouseindia.com"><img src="https://www.webhouseindia.com/public/front/images/logos/webhouseindia-logo.png" alt="Webhouseindia Technology" title="Webhouseindia Technology" height="46px"></a>
+                     <div class="p-lg-0 nav_wrapper">
+                        <ul class="navbar-nav m-auto collapse navbar-collapse" id="mega_menu">
+                           <li class="nav-item home_drop">
+                              <a class="nav-link collapsed hcollapse" href="https://www.webhouseindia.com" ><i class="fa fa-home"></i> Home</a>
+                           </li>
+                           <li class="nav-item hosting_drop">
+                              <a class="nav-link hcollapse collapsed" href="#mega_hosting" data-toggle="collapse" aria-expanded="false">Services <i class="fa fa-angle-down"></i> </a>
+                              <div id="mega_hosting" class="hid collapse" style="">
+                                 <div class="mega_hosting_details">
+                                    <ul class="mega_hosting_list">
+                                       <li><a href="https://www.webhouseindia.com/web-designing"><i class="fa fa-angle-right"></i> Website Design</a></li>
+                                       <li><a href="https://www.webhouseindia.com/ecommerce-website-development-services"><i class="fa fa-angle-right"></i> Ecommerce Website </a></li>
+                                       <li><a href="https://www.webhouseindia.com/web-application-development"><i class="fa fa-angle-right"></i> Web Application </a></li>
+                                       <li><a href="https://www.webhouseindia.com/mobile-app-development"><i class="fa fa-angle-right"></i> Mobile App Development </a></li>
+                                       <li><a href="https://www.webhouseindia.com/graphic-designing-services"><i class="fa fa-angle-right"></i> Graphic Designing</a></li>
+                                       <li><a href="https://www.webhouseindia.com/seo-services"><i class="fa fa-angle-right"></i> SEO/SEM</a></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </li>
+                          
+                            <li class="nav-item">
+                              <a class="nav-link" href="https://www.webhouseindia.com/our-portfolio" >Work Portfolio</a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" href="https://www.webhouseindia.com/client-reviews" >Client Reviews</a>
+                           </li>
+                           <li class="nav-item">
+                              <a class="nav-link" href="https://www.webhouseindia.com/contact-us" >Contact us</a>
+                           </li>
+                           <div class="request">
+
+  
+                               <a class="btn radix-btn2 white-btn"  href="tel:+91 9709796347"  title="Get Quotation for Website, Web Application Project">Let's Talk <i class="fa fa-mobile"></i> </a>
+
+                              
+                           </div>
+                        </ul>
+                     </div>
+                  </nav>
+         </div>
+      </header>
+
+<main role="main" id="site-content">
+   <section class="page-title-section bg-img cover-background theme-overlay ">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-12">
+                   
+                    <h1>Contact us Today !</h1>
+                </div>
+                <div class="col-md-12 text-white mt-10 xs-hidden">
+                    <p><i class="fa fa-check"></i> Need help with your website design, web development, Ecommerce, social media apps or other digital media solutions? Contact us for a free consultation and quotation. Let us make the vision of your company’s web presence a reality.</p>
+                </div>
+
+               
+            </div>
+
+        </div>
+    </section>   <!-- Start Sign-In Section -->
+   <section class="contact_area_2">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-8">
+               <div class="contact_form_2">
+                  <h2> <span>We’d love to connect with you
+</span> You may get connected with us in many ways you see below. We will get back to you as soon as
+                     possible in both cases if you want us to do a new project for you or need any support.
+                  </h2>
+                  <form method="POST" action="https://www.webhouseindia.com/contact" accept-charset="UTF-8" name="user_form" id="contact-form" class="js-validation-bootstrap contact-form" role="form" enctype="multipart/form-data"><input name="_token" type="hidden" value="v3xUjDtjKprQ07XnFTblyEYPOQAUQYtNPLHUnOjz">
+                  <div class="row">
+                     <div class="form-group col-lg-6">
+                        <label for="inputservice">Service</label>
+                        <i class="fa fa-user"></i>
+                        <input type="text" placeholder="Enter your Name*" class="form-control" value="" name="title" id="form-name" required>
+                     </div>
+                     <div class="form-group col-lg-6">
+                        <i class="fa fa-phone"></i>
+                        <label for="inputAddress">Cell Phone no.</label>
+                        <input type="number" placeholder="ENTER MOBILE NO*" class="form-control" maxlength="10" value="" name="mobile" id="form-email" required>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="form-group col-md-6">
+                        <i class="fa fa-envelope"></i>
+                        <label for="inputfulltname">Email Address</label>
+                        <input type="email" placeholder="Enter Your Email *" class="form-control" name="email" value="" id="form-email" required>
+                     </div>
+                     <div class="form-group col-md-6">
+                        <i class="fa fa-gear fa-spin"></i>
+                        <label for="inputphone">Subject</label>
+                        <select id="inputservice" class="form-control custom_select" name="subject" value="" required="required">
+                           <option class="select_value" value="">Select from List *</option>
+                           <option class="select_value" value="1">Complain/ Feedback</option>
+                           <option class="select_value" value="2">Support</option>
+                           <option class="select_value" value="3">Callback</option>
+                           <option class="select_value" value="4">New Project Discussion</option>
+                           <option class="select_value" value="5">Others</option>
+                        </select>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="form-group col-md-12">
+                        <i class="fa fa-comment"></i>
+                        <label for="inputmessage">Message</label>
+                        <textarea placeholder="Describe us your requirement *" rows="4" cols="2" id="message" class="form-control" name="description"></textarea>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <div class="col-md-12">
+                        <button type="submit" class="boxed_btn">Submit</button>
+                     </div>
+                  </div>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+   <hr/>
+   <div class="container">
+      <div class="get_in">
+         <h4 class="text-center">Get in touch (or) report an issue!</h4>
+         <div class="row ">
+            <div class="col-lg-12 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p title ="You can contact us on the given address" data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/google-maps.png" class="lazyload" alt="Google Map" width="2%" ><a target="_blank" href="https://goo.gl/maps/Ae8BLAiLCfcvVN247"><b>Head Office: </b>Building No.-159, 3rd Floor, Bhagwat Nagar Main Rd, near Your’s Super Market, Kumhrar, Patna, Bihar 800026</a></p>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/support.png" class="lazyload" alt="Support" width="11%" ><span><a href="tel:+91 9709796347">+91 9709796347 (India)</a></span></p>
+               </div>
+            </div>
+            
+            
+            
+             <div class="col-lg-4 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/phone.png" class="lazyload" alt="Support" width="11%" ><span><a href="tel:+974 31552635">+974 31552635 (Doha, Qatar)</a></span></p>
+               </div>
+            </div>
+             <div class="col-lg-4 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/live-chat.png" class="lazyload" alt="" width="11%" > <span><a target="_blank" href="https://wa.me/message/2IPD5GV6EO5MB1">Live Chat</a></span></p>
+               </div>
+            </div>
+               <div class="col-lg-4 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/email.png" class="lazyload" alt="Support" width="11%" ><span><a href="/cdn-cgi/l/email-protection#85ccebe3eac5d2e0e7edeaf0f6e0ccebe1ece4abe6eae8"><span class="__cf_email__" data-cfemail="a5eccbc3cae5f2c0c7cdcad0d6c0eccbc1ccc48bc6cac8">[email&#160;protected]</span></a></span></p>
+               </div>
+            </div>
+             <div class="col-lg-4 col-md-6">
+               <div data-test="card" class="card2 card-body  faq-card">
+                  <p data-test="card-text" class="card-text"><img data-src="https://www.webhouseindia.com/public/front/images/pages/email.png" class="lazyload" alt="Support" width="11%" ><span><a href="/cdn-cgi/l/email-protection#93c0e6e3e3fce1e7d3c4f6f1fbfce6e0f6dafdf7faf2bdf0fcfe"><span class="__cf_email__" data-cfemail="3764424747584543776052555f584244527e59535e561954585a">[email&#160;protected]</span></a></span></p>
+               </div>
+            </div>
+           
+           
+           
+            
+         </div>
+     
+      </div>
+   </div>
+
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14393.947757495675!2d85.1789043!3d25.5887308!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed5961403ecf27%3A0x62ead7f26ac488a5!2sWebhouseIndia%20-%20Affordable%20eCommerce%20%26%20Website%20Design%20Company%20in%20Patna!5e0!3m2!1sen!2sin!4v1696790791877!5m2!1sen!2sin" width="1500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</main>
+
+</div>
+
+
+
+<footer class="simple_clean">
+   <div class="container">
+   <div class="footer_top">
+      <div class="row">
+       
+         <div class="col-md-3 col-6">
+            <div class="f_widget_2">
+               <h6>Helpful Menu</h6>
+               <ul>
+                   <li><a href="https://www.webhouseindia.com"><i class="fa fa-angle-right"></i> Home</a></li>
+                  <li><a href="https://www.webhouseindia.com/about-us"><i class="fa fa-angle-right"></i> About us</a></li>
+                  
+                  <li><a href="https://www.webhouseindia.com/why-choose-us"><i class="fa fa-angle-right"></i>  Why Choose us ?  <sup> <span class="batch_red ">Latest</span></sup> </a></li>
+                  <li><a href="https://www.webhouseindia.com/how-we-works"><i class="fa fa-angle-right"></i> How We Work ?</a></li>
+                  <li><a href="https://www.webhouseindia.com/faq"><i class="fa fa-angle-right"></i> FAQS</a></li>
+                 <li><a href="https://www.webhouseindia.com/terms-condition"><i class="fa fa-angle-right"></i> Terms & Condition</a></li>
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-3 col-6">
+            <div class="f_widget_2">
+               <h6>Services</h6>
+               <ul>
+                  <li><a href="https://www.webhouseindia.com/web-designing"><i class="fa fa-angle-right"></i> Website Design</a></li>
+                  <li><a href="https://www.webhouseindia.com/ecommerce-website-development-services"><i class="fa fa-angle-right"></i> Ecommerce Website </a></li>
+                  <li><a href="https://www.webhouseindia.com/web-application-development"><i class="fa fa-angle-right"></i> Web Application </a></li>
+                   <li><a href="https://www.webhouseindia.com/mobile-app-development"><i class="fa fa-angle-right"></i> Mobile Application</a></li>
+                   <li><a href="https://www.webhouseindia.com/graphic-designing-services"><i class="fa fa-angle-right"></i> UI/UX Designing</a></li>
+                   <li><a href="https://www.webhouseindia.com/seo-services"><i class="fa fa-angle-right"></i> SEO/SEM</a></li>
+                 
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-3 col-6">
+            <div class="f_widget_2">
+               <h6>Quick Links</h6>
+               <ul>
+                  <li><a href="https://www.webhouseindia.com/our-portfolio"><i class="fa fa-angle-right"></i> Work Portfolio <sup> <span class="batch_green">New</span></sup></a></li>
+                  <li><a href="https://www.webhouseindia.com/client-reviews"><i class="fa fa-angle-right"></i> Client Reviews <sup> <span class="batch_yellow">Latest</span></sup></a></li>
+                  <li><a href="https://www.webhouseindia.com/job-opportunities-at-webhouseindia"><i class="fa fa-angle-right"></i> Careers <sup> <span class="batch_blue">Hiring</span></sup> </a></li>
+                  <li><a href="https://www.webhouseindia.com/contact-us"><i class="fa fa-angle-right"></i> Contact Us <sup> <span class="batch_red wave">Locate us</span></sup></a></li>
+
+               </ul>
+            </div>
+         </div>
+         <div class="col-md-3 col-12">
+            <div class="f_widget_2">
+               <h6>Support</h6>
+               <ul>
+                  <li><a href="https://maps.app.goo.gl/TZjNdGTBkmqGZUV56" target="_blank"> <i class="fa fa-map-marker"></i> Building No.-159, 3rd Floor, Bhagwat Nagar Main Rd, near Your’s Super Market, Kumhrar, Patna, Bihar 800026</a></li>
+
+                  <li><i class="fa fa-volume-control-phone"></i> <a  href="tel:+91 9709796347"> +91 9709796347 (India)</a></li>
+                   <li>  
+                     <li><i class="fa fa-phone"></i> <a  href="tel:+974 31552635"> +974 31552635 (Doha, Qatar)</a></li>
+                   <li><i class="fa fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#642d0a020b243301060c0b1117012d0a000d054a070b09"> <span class="__cf_email__" data-cfemail="dc95b2bab39c8bb9beb4b3a9afb995b2b8b5bdf2bfb3b1">[email&#160;protected]</span></a></li>
+
+                    <li><i class="fa fa-envelope"></i> <a href="/cdn-cgi/l/email-protection#1a496f6a6a75686e5a4d7f7872756f697f53747e737b34797577"> <span class="__cf_email__" data-cfemail="89dafcf9f9e6fbfdc9deecebe1e6fcfaecc0e7ede0e8a7eae6e4">[email&#160;protected]</span></a></li>
+
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="border_bottom">
+ <p class="copyright"> 
+                     <a style="color:transparent" target="_blank" href="https://hariyalihub.com/vertical-gardening-in-patna-bihar">Vertical Gardening in Patna</a> 
+                     <a style="color:transparent"  target="_blank" href="https://qatarmovingservices24hrs.com">Moving Shifting in Doha, </a>
+
+                           <a target="_blank" style="color:transparent" href="https://www.webhouseindia.com/patna-website-design-company"><b>Website Design Company in Patna, Bihar</b></a>
+                            <a target="_blank"  style="color:transparent" href="https://activemovingservice.com"><b>Qatar Movers
+
+</b></a>    
+<a target="_blank" style="color:transparent" href="https://goodchoicefurnituredoha.com/"><b>Sofa Upholstery in Doha</b></a>
+<a target="_blank" style="color:transparent" href="https://goodchoicefurnituredoha.com/"><b>Arabic Majlis Making in Doha</b></a>
+
+     
+  </p>
+   </div>
+
+
+      <div class="footer_content">
+        
+      </div>
+      <div class="footer_bottom">
+         <a href="#" class="scrolltop"> <i class="fa fa-angle-down"></i></a>
+         <div class="row">
+            <div class="col-md-4 d-flex justify-content-md-start justify-content-center">
+               <div class="paypent_list">
+                  <h6>Trusted by</h6>
+                  <div class="mt-8">
+                     <div>
+                      
+                          <img data-src="https://www.webhouseindia.com/public/front/images/norton.png" class="lazyload" alt="Norton">
+
+                         <img data-src="https://www.webhouseindia.com/public/front/images/security.png" class="lazyload" alt="Security">
+
+                          <img data-src="https://www.webhouseindia.com/public/front/images/mcafee.png" class="lazyload" alt="McAfee">
+
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="copy_right_text">
+                  <p class="copyright"> &copy 2026 | Made with <i class="fa fa-heart heart_class"></i> in India
+                  </p>
+               </div>
+            </div>
+            <div class="col-md-4  d-flex justify-content-md-end justify-content-center">
+               <div class="top_certified">
+                  <p>Powered By</p>
+                  <div>
+                     <img data-src="https://www.webhouseindia.com/public/front/images/webhouseindia-poweredby-digitalocean.png" class="lazyload" alt="WebhouseIndia Powered by Digitalocean"  title="WebhouseIndia Powered by Digitalocean">
+
+
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+
+
+<div class="modal fade postmessage" id="QuickEnquiryform" role="dialog" style="display: none;">
+   <div class="modal-dialog modal-xs">
+      <div class="modal-content">
+         <div class="modal_header">
+            <button type="button" class="close" data-dismiss="modal">×</button>
+            <h5 class="text-center">Request Quote/Quick Enquiry</h5>
+         </div>
+         <div class="modal-body">
+            <div class="alert alert-danger print-error-msg" style="display:none">
+               <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+               <ul></ul>
+            </div>
+            <p class="print-success-msg">
+               <span >Success ! We will get in touch with you soon !</span>
+            </p>
+                  <form method="POST" action="https://www.webhouseindia.com/ajax_quick_enquiry" accept-charset="UTF-8" name="user_form" id="contact-form" class="js-validation-bootstrap contact-form" role="form" enctype="multipart/form-data"><input name="_token" type="hidden" value="v3xUjDtjKprQ07XnFTblyEYPOQAUQYtNPLHUnOjz">
+                  <div class="text-center ajax_form"  >      
+                   <img data-src="https://www.webhouseindia.com/public/front/images/logos/webhouseindia-logo.png" alt="Webhouseindia Logo" class="lazyload" title="Webhouseindia Logo" height="34px"> 
+</div>
+               <p class="text-center para">Get Free Consultation Form Our Expert Consultant! </p>
+               <div class="form-group">
+                  <div class="">
+                     <input id="title" name="title" type="text" required="true" placeholder="Name" class="form-control input-md">
+                  </div>
+               </div>
+               <div class="form-group">
+                  <div class="">
+                     <input id="mobile" name="mobile" type="number"  required="true" placeholder="Mobile/Phone Number" value="" class="form-control input-md">
+                     <span class="help-block"> </span> 
+                  </div>
+               </div>
+               
+              
+               <div class="form-group">
+                  <select class="form-control form_form" name="subject"  type="text" id="subject" required="required">
+                     <option value="">Select Enquiry For</option>
+                     <option value="Website Design">Website Design</option> 
+                     <option value="Ecommerce Website">Ecommerce Website</option>
+                     <option value="Custom Web Application">Custom Web Application</option>
+                     <option value="Mobile Apps">Mobile Apps</option>
+                     <option value="UI/UX">UI/UX</option>
+                     <option value="SEO">SEO</option>
+                     <option value="Digital Marketing">Digital Marketing</option>
+                     <option value="Startup New Idea Discussion">Startup New Idea Discussion</option>
+                     <option value="Others">Others</option>
+
+                  </select>
+               </div>
+              
+                
+               <div class="">
+                  <textarea placeholder="Enter Your Message" rows="2" cols="2" id="description" class="form-control form_form" name="description"></textarea>
+               </div>
+               <div class="text-center">
+
+               <button  type="submit" class="btn btn-primary" id="submit">Submit</button>
+            </div>
+               <hr/>
+               <p class="text-center">100% Privacy. We Don't Share Your Data.
+</p>
+<div class="text-center"><p>Call (or) Whatsapp @</p>
+                              <div  style="margin-top:10px" class="btn  Btn_india " > <a style="color:white" href="tel:+91 9709796347" ><i class="fa fa-phone"></i> Call Now</a></div>
+                               <div style="margin-top:10px"  class="btn  btn_whatsapp " ><a style="color:white" target="_blank" href="https://api.whatsapp.com/send?phone=+91%209709796347&text=Hi,%20WebhouseIndia%20Team,%20I%20want%20to%20contact%20you%20for%20" ><i class="fa fa-whatsapp"></i> Click to Chat</a></div>
+                           </div>
+
+            </form>
+         </div>
+      </div>
+   </div>
+</div><div class="wrapper">
+    <div id="main-div">
+      <div id="main-button" class="wave open">
+        <i class="fa fa-times "></i>
+      </div>
+      <a data-toggle="modal" href="#" data-target="#QuickEnquiryform"  class="telegram-color wave"><i class="fa fa-paper-plane"></i></a>
+      <a target="_blank" href="https://api.whatsapp.com/send?phone=+91 9709796347&amp;text=Hi,%20WebhouseIndia%20Team,%20I%20want%20to%20contact%20you%20for%20" class="whatsapp-color wave"><i class="fa fa-whatsapp"></i></a>
+      <a href="tel:+91 9709796347" class="messenger-color wave"><i class="fa fa-phone"></i></a>
+      
+
+
+    </div>
+  </div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/custom.js"></script>
+
+
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript">
+document.addEventListener("contextmenu", function(e){
+    if (e.target.nodeName === "IMG") {
+        e.preventDefault();
+    }
+}, false);
+  var mainDiv = document.getElementById('main-button');
+mainDiv.addEventListener('click', function(){
+  this.children.item(0).classList.toggle('fa-headphones');
+  this.classList.toggle('open');
+});
+
+
+   </script>
+
+
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/jquery.min.js"> </script> 
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/owl.carousel.js"> </script>
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/bootstrap.min.js"> </script>
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/main.js?v=0.05"></script>
+<script type="0d97a9ffe6fff01d016f6cdb-text/javascript" src="https://www.webhouseindia.com/public/front/js/lazysizes.min.js"></script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="0d97a9ffe6fff01d016f6cdb-|49" defer></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1c0cb844e829e41',t:'MTc4NDIwMjY4Ng=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>

@@ -1,0 +1,34 @@
+[2026-07-16 17:15:51] Target URL: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:17:06] --- STARTING EMAIL EXTRACTION ---
+[2026-07-16 17:17:06] Target URL: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:17:06] Fetching: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:17:07] Connection successful (Status 200)
+[2026-07-16 17:17:07] Found 0 unique email(s)
+[2026-07-16 17:17:07] DEBUG: No emails found. Check 'debug_html.txt' for HTML content
+[2026-07-16 17:17:07] DEBUG: Found 0 with alternative pattern
+[2026-07-16 17:17:07] No new emails to save
+[2026-07-16 17:17:18] Program ended
+[2026-07-16 17:21:09] --- STARTING EMAIL EXTRACTION ---
+[2026-07-16 17:21:09] Target URL: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:09] Fetching: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:10] Connection successful (Status 200)
+[2026-07-16 17:21:10] Found 0 unique email(s)
+[2026-07-16 17:21:10] NOTE: No emails in static HTML (may be loaded by JavaScript)
+[2026-07-16 17:21:10] For JS-rendered sites, consider using Selenium
+[2026-07-16 17:21:10] No new emails to save
+[2026-07-16 17:21:17] --- STARTING EMAIL EXTRACTION ---
+[2026-07-16 17:21:17] Target URL: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:17] Fetching: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:18] Connection successful (Status 200)
+[2026-07-16 17:21:18] Found 0 unique email(s)
+[2026-07-16 17:21:18] NOTE: No emails in static HTML (may be loaded by JavaScript)
+[2026-07-16 17:21:18] For JS-rendered sites, consider using Selenium
+[2026-07-16 17:21:18] No new emails to save
+[2026-07-16 17:21:23] --- STARTING EMAIL EXTRACTION ---
+[2026-07-16 17:21:23] Target URL: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:23] Fetching: https://www.webhouseindia.com/contact-us
+[2026-07-16 17:21:24] Connection successful (Status 200)
+[2026-07-16 17:21:24] Found 0 unique email(s)
+[2026-07-16 17:21:24] NOTE: No emails in static HTML (may be loaded by JavaScript)
+[2026-07-16 17:21:24] For JS-rendered sites, consider using Selenium
+[2026-07-16 17:21:24] No new emails to save
